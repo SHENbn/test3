@@ -28,4 +28,3 @@ artifacts:
     - dist/shop/*
     - dist/shop/assets/*
     - appspec.yml
-    
